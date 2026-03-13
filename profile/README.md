@@ -14,6 +14,7 @@ This organization aims to centralize recognized tools and recipes for deploying 
 
 ## Relationship to QGIS
 
-> [!IMPORTANT] Disclaimer
+> [!IMPORTANT]
+> **Disclaimer**  
 > This is not a QGIS.org project.
 > QGIS is a free software by QGIS.org, QGIS is a registered trademark.
