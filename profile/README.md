@@ -8,7 +8,7 @@ This organization aims to centralize recognized tools and recipes for deploying 
 
 | [Oslandia](https://oslandia.com/) | [WhereGroup GmbH](https://wheregroup.com/) |
 | :-------------------------------: | :----------------------------------------: |
-| <img src="./static/img/logo_oslandia.png" max-width=254 alt="logo Oslandia" >  | <img src="./static/img/logo_wheregroup.png" max-width=254 alt="logo WhereGroup" > |
+| <img src="../static/img/logo_oslandia.png" max-width=254 alt="logo Oslandia" >  | <img src="../static/img/logo_wheregroup.png" max-width=254 alt="logo WhereGroup" > |
 
 <!-- markdownlint-enable MD033 -->
 
